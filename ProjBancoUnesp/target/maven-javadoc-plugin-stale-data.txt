@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/helsi/OneDrive/Área de Trabalho/Faculdade/POO/ProjBancoUnesp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/helsi/OneDrive/Área de Trabalho/Faculdade/POO/ProjBancoUnesp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProjBancoUnesp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProjBancoUnesp 1.0-SNAPSHOT API'
+com.mycompany.projbancounesp
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\src\main\java = 1680615667171
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\allclasses-index.html = 1681481288472
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\allpackages-index.html = 1681481288477
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\copy.svg = 1681481288561
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\element-list = 1681481288368
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\help-doc.html = 1681481288546
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\index-all.html = 1681481288526
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\index.html = 1681481288533
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\member-search-index.js = 1681481288488
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\module-search-index.js = 1681481288481
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\overview-tree.html = 1681481288439
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\package-search-index.js = 1681481288484
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\script.js = 1681481288557
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\search-page.js = 1681481288569
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\search.html = 1681481288529
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\search.js = 1681481288565
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\stylesheet.css = 1681481288555
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\tag-search-index.js = 1681481288490
+C:\Users\helsi\OneDrive\Área de Trabalho\Faculdade\POO\ProjBancoUnesp\target\site\apidocs\type-search-index.js = 1681481288486
